@@ -1,7 +1,7 @@
 # Welcome to FSOC OSS
 🚀 Jumpstart your Open Source Journey!
 
-FSOC is a week-long immersive program starting this October, tailored to introduce first-year students to the world of open-source development. All you need is curiosity and the passion to learn—no prior experience required! 💡
+FSOC is a week-long immersive program starting this September, tailored to introduce first-year students to the world of open-source development. All you need is curiosity and the passion to learn—no prior experience required! 💡
 
 ## How FSOC OSS Works:
 Claim Issues, Challenge Yourself: Forget what you already know! Instead of looking for issues you can easily solve, we encourage you to tackle those you don’t. This is where growth happens—dive into the unknown, and learn by doing! 🚀
